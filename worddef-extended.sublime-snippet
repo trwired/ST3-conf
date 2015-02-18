@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+.. worddef:: ${1:word}
+${2:    :gender: ${3:masc}
+}${4:    :ignore:
+}${5:    :lang: ${6:pl}
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>wde</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.restructuredtext</scope>
+</snippet>

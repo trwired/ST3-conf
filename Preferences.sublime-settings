@@ -1,0 +1,116 @@
+{
+	"WrapPlus.wrap_width": 79,
+	"always_prompt_for_file_reload": false,
+	"animation_enabled": true,
+	"auto_close_tags": true,
+	"auto_complete_commit_on_tab": false,
+	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		}
+	],
+	"auto_complete_with_fields": false,
+	"auto_find_in_selection": false,
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
+	"bold_folder_labels": false,
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/base16-eighties.dark (Flake8Lint).tmTheme",
+	"copy_with_empty_selection": true,
+	"create_window_at_startup": true,
+	"default_line_ending": "unix",
+	"drag_text": true,
+	"draw_indent_guides": true,
+	"enable_tab_scrolling": true,
+	"enable_telemetry": "auto",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 11,
+	"gpu_window_buffer": "auto",
+	"highlight_modified_tabs": false,
+	"hot_exit": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log"
+	],
+	"index_files": true,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"open_files_in_new_window": true,
+	"overlay_scroll_bars": "system",
+	"preview_on_click": true,
+	"remember_full_screen": false,
+	"remember_open_files": true,
+	"rulers":
+	[
+		80
+	],
+	"scroll_speed": 1.0,
+	"shift_tab_unindent": false,
+	"show_encoding": false,
+	"show_full_path": true,
+	"show_line_endings": false,
+	"show_panel_on_build": true,
+	"show_tab_close_buttons": true,
+	"theme": "Spacegray Eighties.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"tree_animation_enabled": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": false
+}

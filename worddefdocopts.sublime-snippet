@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+.. worddefdocopts::
+${1:    :ignore:
+}${2:    :lang: ${3:pl}
+}${4:    :unstack:}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>wdo</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.restructuredtext</scope>
+</snippet>
