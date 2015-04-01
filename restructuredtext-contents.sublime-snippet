@@ -1,10 +1,12 @@
 <snippet>
     <content><![CDATA[
-.. worddef:: ${1:word}
-    :translation: ${2:translation}
+.. contents::
+    :local:
+    :depth: 2
+
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>wd</tabTrigger>
+    <tabTrigger>cont</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>text.restructuredtext</scope>
 </snippet>

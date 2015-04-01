@@ -2,10 +2,11 @@
     // an array of options to pass to jslint.
     "options" : [
         // suggest an indent level of two spaces.
-        "--indent", "4",
+        "--indent", "2",
         // tolerate many var statements per function.
         "--vars",
         // tolerate ++ and --.
-        "--plusplus"
+        "--plusplus",
+        "--node"
     ]
 }

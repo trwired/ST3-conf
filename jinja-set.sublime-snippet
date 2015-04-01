@@ -1,10 +1,9 @@
 <snippet>
     <content><![CDATA[
-.. worddef:: ${1:word}
-    :translation: ${2:translation}
+{% set ${1:variable_name} = ${2:variable_value} %}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>wd</tabTrigger>
+    <tabTrigger>set</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>text.restructuredtext</scope>
+    <scope>text.html.jinja</scope>
 </snippet>

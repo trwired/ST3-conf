@@ -1,10 +1,11 @@
 <snippet>
     <content><![CDATA[
-.. worddef:: ${1:word}
-    :translation: ${2:translation}
+{% call ${1:macro_name}(${2:parameters}) %}
+    ${3:body}
+{% endcall %}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>wd</tabTrigger>
+    <tabTrigger>call</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>text.restructuredtext</scope>
+    <scope>text.html.jinja</scope>
 </snippet>

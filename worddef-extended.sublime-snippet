@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
 .. worddef:: ${1:word}
-${2:    :gender: ${3:masc}
-}${4:    :ignore:
-}${5:    :lang: ${6:pl}
-}
+${1:    :translation:}
+${3:    :gender: ${4:masc}
+}${5:    :ignore:
+}${6:    :lang: ${7:pl}}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>wde</tabTrigger>

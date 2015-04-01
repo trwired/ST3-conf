@@ -87,11 +87,7 @@
 	],
 	"index_exclude_patterns":
 	[
-		"*.log",
-		".git",
-		".hg",
-		".svn",
-		".sass-cache"
+		"*.log"
 	],
 	"index_files": true,
 	"line_padding_bottom": 3,

@@ -4,13 +4,19 @@
 	],
 	"installed_packages":
 	[
+		"AsciiDoc",
 		"Base16 Color Schemes",
+		"BoundKeys",
 		"Colorsublime",
 		"DocBlockr",
 		"Emmet",
-		"Git",
+		"Expand Tabs on Save",
+		"File Rename",
+		"FindKeyConflicts",
 		"HTML Boilerplate",
+		"HTML2Text",
 		"INI",
+		"Initializr",
 		"InsertDate",
 		"Jinja2",
 		"JSLint",
@@ -20,8 +26,11 @@
 		"Rust",
 		"Sass",
 		"SASS Build",
+		"ScopeHunter",
 		"SideBarEnhancements",
+		"Slugify",
 		"Theme - Spacegray",
+		"WordCount",
 		"Wrap Plus"
 	]
 }
