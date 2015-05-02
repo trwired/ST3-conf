@@ -79,7 +79,9 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"LoremIpsum",
+		"SideBarEnhancements"
 	],
 	"indent_guide_options":
 	[
@@ -87,11 +89,12 @@
 	],
 	"index_exclude_patterns":
 	[
-		"*.log",
 		".git",
-		".hg",
+		"*.log",
+		".sass-cache",
 		".svn",
-		".sass-cache"
+		".hg",
+		"C:\\Users\\Igor\\Projekty\\Blogi\\kumkum\\.sass-cache*"
 	],
 	"index_files": true,
 	"line_padding_bottom": 3,

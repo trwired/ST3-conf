@@ -1,6 +1,8 @@
 {
 	"in_process_packages":
 	[
+		"LoremIpsum",
+		"SideBarEnhancements"
 	],
 	"installed_packages":
 	[
@@ -20,7 +22,9 @@
 		"InsertDate",
 		"Jinja2",
 		"JSLint",
+		"LaTeXTools",
 		"Package Control",
+		"Phpcs",
 		"Python Flake8 Lint",
 		"Restructured Text (RST) Snippets",
 		"Rust",

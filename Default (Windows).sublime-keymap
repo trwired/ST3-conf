@@ -1,6 +1,6 @@
 [
   {
-      "keys": ["ctrl+t"],
+      "keys": ["alt+ctrl+t"],
       "command": "run_macro_file",
       "args": {"file": "Packages/User/duolingo-verb-table.sublime-macro"}
   }

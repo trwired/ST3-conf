@@ -1,0 +1,42 @@
+{
+	"folders":
+	[
+		{
+			"path": "C:\\Windows\\System32\\drivers\\etc"
+		},
+		{
+			"path": "C:\\Apache24"
+		},
+		{
+			"path": "C:\\Users\\Igor\\Projekty\\Web\\hq"
+		},
+		{
+			"folder_exclude_patterns":
+			[
+				"kumkum/.sass-cache"
+			],
+			"path": "C:\\Users\\Igor\\Projekty\\Blogi"
+		},
+		{
+			"path": "C:\\Users\\Igor\\Projekty\\Other\\lifedoc"
+		},
+		{
+			"path": "C:\\Users\\Igor\\docs"
+		},
+		{
+			"path": "C:\\Users\\Igor\\Francais"
+		},
+		{
+			"path": "C:\\Users\\Igor\\Projekty\\Personal\\toolbox"
+		},
+		{
+			"path": "C:\\Users\\Igor\\Projekty\\Personal\\pwiki"
+		},
+		{
+			"path": "C:\\Users\\Igor\\Projekty\\Personal\\lingo"
+		},
+		{
+			"path": "C:\\Users\\Igor\\Documents\\RPG\\Scenariusze"
+		}
+	]
+}

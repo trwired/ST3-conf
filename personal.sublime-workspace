@@ -1,0 +1,1995 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Suma",
+				"SumatraPDF"
+			],
+			[
+				"proce",
+				"processor"
+			],
+			[
+				"spli",
+				"split_url"
+			],
+			[
+				"IM",
+				"IMAGES_REGEXP"
+			],
+			[
+				"fi",
+				"fileName"
+			],
+			[
+				"yaml_parse",
+				"yaml_parse_file"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"base",
+				"baseline-overlay"
+			],
+			[
+				"navi",
+				"navigation-font-size"
+			],
+			[
+				"pso",
+				"position"
+			],
+			[
+				"border-",
+				"navigation-border-width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"por",
+				"processjs_debug"
+			],
+			[
+				"uni",
+				"unitless-font-size"
+			],
+			[
+				"margi",
+				"margin-width"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"bak",
+				"backgroundImage"
+			],
+			[
+				"lisst",
+				"list-style"
+			],
+			[
+				"tco",
+				"table-border-color2"
+			],
+			[
+				"em",
+				"em-base"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"fotns",
+				"font-style"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"UR",
+				"URI_TPL"
+			],
+			[
+				"hn",
+				"hn_role"
+			],
+			[
+				"bgco",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"dest",
+				"destinationPaths"
+			],
+			[
+				"a",
+				"attribute"
+			],
+			[
+				"fost",
+				"font-style"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"listst",
+				"list-style"
+			],
+			[
+				"foo",
+				"footer-background"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"mini",
+				"minifycss"
+			],
+			[
+				"pat",
+				"pathsDestination"
+			],
+			[
+				"path",
+				"pathsSource"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"exte",
+				"extended_translation"
+			],
+			[
+				"sphin",
+				"sphinx_rtd_theme_fork"
+			],
+			[
+				"Wo",
+				"WordDefinitionFlags"
+			],
+			[
+				"defa",
+				"default_options"
+			],
+			[
+				"ex",
+				"except"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Igor/Projekty/Personal/lingo/app/Http/Controllers/WordController.php",
+			"settings":
+			{
+				"buffer_size": 438,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Igor/Projekty/Personal/lingo/app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 585,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Igor/Francais/index.rst",
+			"settings":
+			{
+				"buffer_size": 901,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Igor/Francais/docs/adjectives3.rst",
+			"settings":
+			{
+				"buffer_size": 1005,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Igor/docs/bookmarks/startup.rst",
+			"settings":
+			{
+				"buffer_size": 159,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Igor/docs/bookmarks/bookmarks.rst",
+			"settings":
+			{
+				"buffer_size": 293,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Igor/docs/kultura/tv-series.rst",
+			"settings":
+			{
+				"buffer_size": 1450,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Igor/docs/kultura/french.rst",
+			"settings":
+			{
+				"buffer_size": 150,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Igor/docs/kultura/kultura.rst",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <title>Farley's Fabulous Flower Farm</title>\n    <meta charset=\"utf-8\">\n    <link rel=\"Stylesheet\" href=\"Flowers.css\">\n</head>\n\n<body>\n    <div id=\"wrapper\">\n    <h1>Farley's Fabulous Flower Farm</h1>\n\n    <main>\n    \n        <div id=\"group1\">\n            <header><h2>About the Farm</h2></header>\n    \n            <img src=\"images/plants.jpg\" height=\"300\" width=\"300\" alt=\"Plants\">\n    \n            <p>Lorem ipsum  dolor sit amet, consectetur adipiscing elit. Aliquam vitae tellus tortor, a viverra nibh. Donec ac convallis ipsum. Nullam molestie, sem in auctor blandit, ante dui sodales odio, ac fermentum libero mi a lacus. Nam pharetra fringilla nisi, a porta magna placerat sit amet. Ut vel leo ac mauris semper pretium. Morbi rhoncus accumsan augue, non vestibulum arcu lacinia ac. Vivamus magna dolor, gravida vitae malesuada et, porta tempor tellus. Aliquam sagittis metus vestibulum est adipiscing bibendum. Curabitur interdum suscipit rutrum. Integer nisl nunc, elementum at cursus eu, tincidunt eget odio. Duis elementum ultrices dui sed euismod. In facilisis bibendum sem, et lacinia arcu congue at. Vivamus tristique nibh sit amet lorem consequat egestas. Nulla congue tortor in mi sagittis accumsan. Ut in quam nec metus adipiscing tincidunt. Maecenas viverra laoreet tortor sit amet facilisis. Cras sem erat, scelerisque eget dignissim quis, cursus blandit massa. Fusce consectetur feugiat egestas. Quisque imperdiet libero at ante ultricies tristique ut vitae nisi. Curabitur tincidunt convallis justo, ac laoreet dui interdum in. Praesent quis est mauris.</p>\n        </div>\n        <div id=\"group2\">\n            <h2>Membership Options</h2>\n                <table>\n                <caption>Membership Benefits</caption>\n                    <tr>\n                        <th>Level</th>\n                        <th>Benefits</th>\n                        <th>Cost</th>\n                    </tr>\n                    <tr>\n                        <td>Bronze</td>\n                        <td>Seed-of-the-month club</td>\n                        <td>$10/month</td>\n                    </tr>\n                    <tr>\n                        <td>Silver</td>\n                        <td>Seed-of-the-month club plus a silver flower pot</td>\n                        <td>$15/month</td>\n                    </tr>\n                    <tr>\n                        <td>Gold</td>\n                        <td>Seed-of-the-month club, gold flower pot, and 20% discount on all products</td>\n                        <td>$20/month</td>\n                    </tr>\n                    <tr>\n                        <td>Platinum</td>\n                        <td>Seed-of-the-month club, platinum flower pot, 25% discount on all products, and instant access to new videos.</td>\n                        <td>$10/month</td>\n                    </tr>\n                    <tr>\n                        <td>Prices subject to change without notice</td>\n                    </tr>\n                </table>\n            </div>\n            <div id=\"group3\">\n            <h2>Sign up</h2>\n    \n                <h3>User Information</h3>\n                    <form method=\"post\" action=\"http://webdevbasics.net/scripts/demo.php\">\n                    <label for=\"Name\">Name: </label>\n                    <input type=\"text\" name=\"Name\" id=\"Name\" required=\"required\">\n            \n                    <label for=\"Email\">Email: </label>\n                    <input type=\"email\" name=\"Email\" id=\"Email\" required=\"required\">\n            \n                    <label for=\"Password\">Password: </label>\n                    <input type=\"password\" name=\"Password\" id=\"Password\" required=\"required\">\n                    </form>\n                    \n                <h3>Membership Options</h3>\n                    <p>Membership Type:\n                    <select size=\"1\" name=\"Type\" id=\"membershiptype\">\n                        <option value=\"Bronze Membership\">Bronze Membership</option>\n                        <option value=\"Silver Membership\">Silver Membership</option>\n                        <option value=\"Gold Membership\">Gold Membership</option>\n                        <option value=\"Platinum Membership\" selected=\"selected\">Platinum Membership</option>\n                    </select>\n                    </p>\n                    \n                    <p>Bill me:\n                    <input type=\"radio\" name=\"Billing Frequency\" id=\"month\" checked=\"checked\" value=\"Monthly\">Monthly\n                    <input type=\"radio\" name=\"Billing Frequency\" id=\"year\" value=\"annually\">Annually\n                    </p>\n                    \n                    <p>Pay by:\n                    <input type=\"radio\" name=\"Payment Type\" id=\"CC\" checked=\"checked\" value=\"Credit card\">Credit card\n                    <input type=\"radio\" name=\"Payment Type\" id=\"DC\" value=\"Debit card\">Debit card\n                    <input type=\"radio\" name=\"Payment Type\" id=\"PP\" value=\"Paypal\">PayPal\n                    </p>\n                    \n                    <input id=\"mySubmit\" type=\"submit\" value=\"Sign me up\">\n            </div>\n                \n    \n    </main>\n    \n    \n    \n    </div>\n</body>\n</html>",
+			"settings":
+			{
+				"buffer_size": 5182,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "LaTeXTools.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 6453,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Igor/Documents/RPG/Scenariusze/test/test.tex",
+			"settings":
+			{
+				"buffer_size": 18849,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Igor/Downloads/Web/article_2/article_2.tex",
+			"settings":
+			{
+				"buffer_size": 6014,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/JSLint/JSLint.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 306.0,
+		"last_filter": "sshtml",
+		"selected_items":
+		[
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"latex",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"keyu",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"setsq",
+				"Set Syntax: SQL"
+			],
+			[
+				"setspy",
+				"Set Syntax: Python"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"keybu",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"setsrst",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"s",
+				"Slugify"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"slu",
+				"Slugify"
+			],
+			[
+				"scope",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"keyser",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"initi",
+				"Initializr: New Project"
+			],
+			[
+				"keyus",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"key",
+				"List bound keys"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"package",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"sco",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"restr",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"slug",
+				"Slugify"
+			],
+			[
+				"boun",
+				"List bound keys"
+			],
+			[
+				"bou",
+				"List bound keys"
+			],
+			[
+				"scop",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"retru",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"find",
+				"FindKeyConflicts: (Direct) Conflicts to Buffer"
+			],
+			[
+				"lore",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"ipsu",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"date",
+				"InsertDate: Default"
+			],
+			[
+				"setshtmj",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"setsjin",
+				"Set Syntax: Jinja Templates"
+			],
+			[
+				"setshtji",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"setshj",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"setjin",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"jinj",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"syntjij",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"init",
+				"Initializr: New Project"
+			],
+			[
+				"syntrest",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"restru",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"Snippet: ",
+				"Snippet: worddef"
+			],
+			[
+				"hmtj",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"setscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"setshtmlj",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"synjinj",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"setssass",
+				"Set Syntax: Sass"
+			],
+			[
+				"setsini",
+				"Set Syntax: INI"
+			],
+			[
+				"sethmlj",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"synjij",
+				"Set Syntax: Jinja Templates"
+			],
+			[
+				"setshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"synt",
+				"Set Syntax: Python"
+			],
+			[
+				"Snippet: #",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"syntapyt",
+				"Set Syntax: Python"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"prefere:inser",
+				"Preferences: InsertDate Keybindings - Default"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"colors",
+				"Colorsublime: Install Theme"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 195.0,
+		"history":
+		[
+			"clean",
+			"clear",
+			"view.run_command(\"example\")",
+			"doc(help)",
+			"help(sys)",
+			"import sys",
+			"version",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Igor/Projekty/Web/hq",
+		"/C/Users/Igor/Projekty/Web/hq/js",
+		"/C/Users/Igor/docs",
+		"/C/Users/Igor/docs/kultura",
+		"/C/Users/Igor/Francais/docs",
+		"/C/Users/Igor/Projekty/Personal/toolbox",
+		"/C/Users/Igor/Documents/RPG/Scenariusze",
+		"/C/Users/Igor/Documents/RPG/Scenariusze/test"
+	],
+	"file_history":
+	[
+		"/C/Users/Igor/Documents/Podatki/PIT 2014/numer referencyjny.txt",
+		"/C/Users/Igor/Projekty/Personal/toolbox/urlc.py",
+		"/C/Users/Igor/Documents/RPG/Scenariusze/test.pdf",
+		"/C/Users/Igor/Documents/RPG/Scenariusze/test.tex",
+		"/C/Users/Igor/Francais/%f",
+		"/C/Users/Igor/docs/index.rst",
+		"/C/Users/Igor/Francais/make.bat",
+		"/C/Apache24/conf/httpd.conf",
+		"/C/Apache24/conf/extra/httpd-vhosts.conf",
+		"/C/Users/Igor/Projekty/Personal/pwiki/app/Http/routes.php",
+		"/C/Users/Igor/Projekty/Personal/pwiki/app/Http/Controllers/WordController.php",
+		"/C/Users/Igor/Projekty/Personal/lingo/app/Http/Controllers/Controller.php",
+		"/C/Users/Igor/docs/french/adjectives3.rst",
+		"/C/Users/Igor/docs/french/level-3.rst",
+		"/C/Users/Igor/docs/french/places.rst",
+		"/C/Users/Igor/docs/make.bat",
+		"/C/Users/Igor/Francais/.gitignore",
+		"/C/Users/Igor/docs/.gitignore",
+		"/C/Users/Igor/Français/index.rst",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Igor/Français/make.bat",
+		"/C/Users/Igor/Français/index_old.rst",
+		"/C/Users/Igor/Français/.gitignore",
+		"/C/Users/Igor/docs/wiedzownik/supery.rst",
+		"/C/Users/Igor/docs/praca/praca.rst",
+		"/C/Users/Igor/docs/bookmarks/bookmarks.rst",
+		"/C/Users/Igor/docs/french/objects.rst",
+		"/C/Users/Igor/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Igor/docs/french/negatives.rst",
+		"/C/Users/Igor/Projekty/Personal/pwiki/app/Http/Controllers/Controller.php",
+		"/C/Users/Igor/Projekty/Personal/lingo/config/database.php",
+		"/C/Users/Igor/Projekty/Personal/lingo/config/app.php",
+		"/C/Users/Igor/docs/wiedzownik/slowka1.rst",
+		"/C/Users/Igor/Projekty/Personal/pwiki/app/Http/Controllers/UserController.php",
+		"/C/Apache24/manual/rewrite/vhosts.html",
+		"/C/Users/Igor/Projekty/Personal/pwiki/database/migrations/2015_04_18_060729_create_users_table.php",
+		"/C/Users/Igor/Projekty/Personal/pwiki/app/Misc/APIResponse.php",
+		"/C/Users/Igor/Projekty/Personal/pwiki/.env",
+		"/C/php-5.6.3-Win32-VC11-x64/php.ini",
+		"/C/Users/Igor/Projekty/Personal/pwiki/bootstrap/app.php",
+		"/C/Users/Igor/Projekty/Personal/pwiki/storage/database.sqlite",
+		"/C/Users/Igor/Projekty/Personal/pwiki/database/migrations/2015_04_18_062514_create_langs_and_words_table.php",
+		"/C/Users/Igor/Projekty/Personal/pwiki/storage/pwiki",
+		"/C/php-5.6.3-Win32-VC11-x64/phplint-2.1_20150305/php.bat",
+		"/C/php-5.6.3-Win32-VC11-x64/phplint-2.1_20150305/phpl.bat",
+		"/C/Users/Igor/docs/wiedzownik/words2.rst",
+		"/C/Users/Igor/docs/bookmarks/literature.rst",
+		"/C/Users/Igor/docs/french/household.rst",
+		"/C/Users/Igor/Projekty/Web/hq/index.php",
+		"/C/Temp/test.rst",
+		"/C/Temp/pandoctest.bat",
+		"/C/Users/Igor/Projekty/Web/hq/js/filters.js",
+		"/C/Users/Igor/Projekty/Personal/toolbox/requirements.txt",
+		"/C/Users/Igor/docs/bookmarks/web-and-graphics.rst",
+		"/C/Users/Igor/docs/bookmarks/tailoring.rst",
+		"/C/Users/Igor/docs/lektury/lista-lektur.rst",
+		"/C/Users/Igor/AppData/Roaming/Sublime Text 3/Packages/User/duolingo-verb-table.sublime-macro",
+		"/C/Users/Igor/docs/bookmarks/language-learning.rst",
+		"/C/Users/Igor/docs/bookmarks/dance.rst",
+		"/C/Users/Igor/docs/bookmarks/miscellaneous.rst",
+		"/C/Users/Igor/docs/bookmarks/rpg.rst",
+		"/C/Users/Igor/docs/bookmarks/programming.rst",
+		"/C/Users/Igor/Projekty/Web/hq/data/languages.yaml",
+		"/C/Users/Igor/Projekty/Web/hq/lib/engine.php",
+		"/C/Users/Igor/Projekty/Web/hq/phpinfo.php",
+		"/C/Users/Igor/AppData/Local/Temp/Temp1_php_yaml-1.1.1-5.6-ts-vc11-x64.zip/README",
+		"/C/Users/Igor/docs/french/adverbs2.rst",
+		"/C/Users/Igor/docs/french/conjunctions2.rst",
+		"/C/Users/Igor/docs/bookmarks/meditation.rst",
+		"/C/Users/Igor/docs/french/demonstratives1-words1.rst",
+		"/C/Users/Igor/docs/lektury/lektury.rst",
+		"/C/Users/Igor/docs/wiedzownik/wiedzownik.rst",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/src/sass/_variables.sass",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/demo_content/showing off tables.rst",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/src/sass/layout.sass",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/src/sass/refills/_navigation.scss",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/src/sass/_mixins.sass",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/src/sass/post.sass",
+		"/C/Users/Igor/docs/french/prepositions1.rst",
+		"/C/Users/Igor/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Igor/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Igor/docs/bookmarks/fashion.rst",
+		"/C/Users/Igor/Projekty/Blogi/testkum/pelicanconf.py",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/README.rst",
+		"/C/Users/Igor/docs/french/infinitives-words1.rst",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/templates/_base.html",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/templates/macros/insert-fa-icon.html",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/templates/includes/social.html",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/templates/includes/header.html",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/templates/macros/use-font-awesome.html",
+		"/C/Users/Igor/Projekty/Other/lifedoc/extensions/autolink.py",
+		"/C/Users/Igor/docs/wiedzownik/words1.rst",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/templates/includes/footer.html",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/demo_content/translated_pl.rst",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/demo_content/translated.rst",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/templates/includes/translations.html",
+		"/C/Users/Igor/Projekty/Blogi/testkum/pelican-plugins/i18n_subsites/i18n_subsites.py",
+		"/C/Users/Igor/Projekty/Blogi/testkum/pelican-plugins/i18n_subsites/test_i18n_subsites.py",
+		"/C/Users/Igor/Projekty/Other/lifedoc/conf.py",
+		"/C/Users/Igor/AppData/Roaming/Sublime Text 3/Packages/User/restructuredtext-autolink.sublime-snippet",
+		"/C/Users/Igor/Projekty/Other/lifedoc/extensions/hn.py",
+		"/C/Users/Igor/docs/moda/moda.rst",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/src/js/debug.js",
+		"/C/Users/Igor/docs/french/french.rst",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/templates/macros/display-extras.html",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/templates/includes/extras.html",
+		"/C/Users/Igor/AppData/Roaming/Sublime Text 3/Packages/User/reStructuredText.sublime-settings",
+		"/C/Users/Igor/docs/french/demonstratives2.rst",
+		"/C/Users/Igor/docs/sztuka/sztuka.rst",
+		"/C/Users/Igor/docs/french/adverbs1-words1.rst",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/src/js/main.js",
+		"/C/Users/Igor/docs/french/demonstratives1.rst",
+		"/C/Users/Igor/docs/french/level-2.rst",
+		"/C/Users/Igor/docs/french/level-4.rst",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/demo_content/pages/typography.rst",
+		"/C/Users/Igor/Projekty/Blogi/testkum/pelican-plugins/assets/test_assets.py",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/demo_content/pages/todo.rst",
+		"/C/Users/Igor/Projekty/OSS/baseline-overlay/README.rst",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/gulpfile.js",
+		"/C/Users/Igor/Projekty/OSS/baseline-overlay/baseline-overlay.js",
+		"/C/Users/Igor/Projekty/OSS/baseline-overlay/demo/demo.js",
+		"/C/Users/Igor/Projekty/OSS/baseline-overlay/bower.json",
+		"/C/Users/Igor/Projekty/OSS/baseline-overlay/package.json",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/bower.json",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/package.json",
+		"/C/Users/Igor/Projekty/Blogi/kumkum/demo_content/sidebar.rst",
+		"/C/Users/Igor/Projekty/Blogi/verticalrhytmgrid/baseline-overlay.js",
+		"/C/Users/Igor/Projekty/Blogi/verticalrhytmgrid/demo/demo.js"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 133.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"multicols",
+			"multicol",
+			"print",
+			"engi",
+			"xela",
+			"utf",
+			"\\",
+			"lifedoc",
+			"french",
+			"Sparrow",
+			"ta",
+			"pwiki",
+			"Message",
+			"$result['message' => ",
+			"';",
+			"\"",
+			"serializable",
+			"curl",
+			"sqli",
+			"->default",
+			"nulleable",
+			"	",
+			"latex",
+			" -",
+			"Baskerville",
+			"color",
+			"self.split_url",
+			"self.query",
+			"self, u",
+			"query",
+			"host",
+			"query",
+			"internationalize",
+			"pwi",
+			"kumkumtheme",
+			"/",
+			"compo",
+			";",
+			"\">",
+			"</a></li>",
+			"    <li><a href=\"",
+			"line",
+			"link",
+			"fields",
+			"lines",
+			"readLines",
+			"data",
+			"masc",
+			"Guile",
+			";",
+			"modular-scale(-1)",
+			"14",
+			"modular-scale(-1)",
+			"super-unit",
+			"super",
+			"super-unit",
+			"-2",
+			"block\\(",
+			"kumkum_block",
+			"AWES",
+			"header-background1",
+			"'",
+			"\"\"\"",
+			"translation.source_path",
+			"translation.source_path]",
+			"images",
+			"print ",
+			"favicon",
+			"worddef",
+			"1",
+			"extras-t",
+			"h2",
+			"aaa",
+			"/",
+			"redst",
+			":st",
+			"yPos",
+			"console",
+			"size",
+			"setURL",
+			"target",
+			"\"",
+			"$(target)",
+			"size",
+			"\\+ 1",
+			"blockSize",
+			"blockSi",
+			"baseSize",
+			"*(default",
+			"zIndes",
+			"lineHeight",
+			"result",
+			"top",
+			"width",
+			"\n\n;",
+			"ctrl+t",
+			"bezokoliczniki",
+			".rst",
+			");\n",
+			"2",
+			"margin",
+			"0",
+			"5",
+			"post-tit",
+			"print",
+			"noprint",
+			",",
+			", ",
+			"src",
+			"unitless-",
+			"(14, false)",
+			"super-unit",
+			"section-padding",
+			"post-re",
+			"rubric",
+			"14",
+			"title",
+			"false, heading",
+			"add-margins",
+			"role",
+			"heading",
+			"true",
+			"super-unit",
+			"include kumkum_adjust_for_vertical_rhytm(",
+			"22",
+			"24",
+			"$golden",
+			"block-margin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"    ",
+			"\\t",
+			"em($1)",
+			"$1 !global",
+			"extras $1",
+			"em($1)",
+			"$1@include remify($2, $3)",
+			"$1font-size: $2em",
+			"$1line-height: $2em",
+			"$1font-size: $2em",
+			"",
+			"    | ",
+			"    |",
+			"* ",
+			".. worddef:: $1\\n    :translation: $2\\n    :gender: \\n",
+			":gender: masc\\n",
+			".. worddef:: $1\\n    :translation: $2\\n    :gender: \\n",
+			".. worddef:: $1\\n    :translation: $2$3",
+			".. worddef:: $1 $2",
+			"$1====\\n",
+			"$1\\n====\\n",
+			"$1\\n====",
+			"* $1 - *$2*",
+			"| *",
+			"| * ",
+			"* ",
+			"| *$1*",
+			"| ",
+			"",
+			" `$1`_\\n.. _$1: $2",
+			"`$1`_\\n.. _$1: $2",
+			"| :favicon:`$2` $1<$2>$3",
+			"| :favicon:`$4` $1$2$4$5",
+			"| :favicon:`$3` $1$2$3$4",
+			"`$2 <$1>`_",
+			" \\n\\n",
+			" .. worddef:: $1 $3\\n    $2\\n\\n",
+			" ",
+			"    ",
+			"        ",
+			".. worddef:: $1\\n    ",
+			".. worddef:: $1\\n\\n    ",
+			".. worddef:: ",
+			".. worddef::\\n\\t$1\\n\\t:gender:\\n\\t:plural: $2\\n\\n\\t$3\\n\\n",
+			".. worddef::\\n\\t$1\\n\\t:gender:\\n:\\tplural: $2\\n\\n\\t$3\\n\\n",
+			".. worddef::\\n\\t$1\\n\\t:gender:\\n:\\tplural: $2\\n\\n\\t$3",
+			".. worddef:: $1\\n\\t:gender:\\n:plural: $2\\n\\n\\t$3",
+			"# $1",
+			"\"nick\": \"$1\"",
+			"{\\n\\t\"type\": \"action\",\\n\\t\"time\": \"11:12\",\\n\\t\"nick\": \"$1\",\\n\\t\"text\": \"$2\"\\n},",
+			"{\\n\\t\"type\": \"chat\",\\n\\t\"time\": \"11:12\",\\n\\t\"nick\": \"$1\",\\n\\t\"text\": \"$2\"\\n},",
+			"{\\n\\t\"type\": \"chat\",\\n\\t\"time\": \"11:12\",\\n\\t\\t\"nick\": \"$1\",\\n\\t\"text\": \"$2\"\\n},",
+			"{\\n\\t\"nick\": \"$1\",\\n\\t\"text\": \"$2\"\\n},",
+			"\"nick\": \"$1\",\\n\"text\": \"$2\"",
+			"\\\"",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Igor/Projekty/Personal/lingo/app/Http/Controllers/WordController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								392,
+								392
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "php",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Igor/Projekty/Personal/lingo/app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								584
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "php",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Igor/Francais/index.rst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 901,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								760,
+								760
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "restructuredtext",
+							"syntax": "Packages/RestructuredText/reStructuredText.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 347.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Igor/Francais/docs/adjectives3.rst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1005,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								788,
+								788
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "restructuredtext",
+							"syntax": "Packages/RestructuredText/reStructuredText.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1157.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Igor/docs/bookmarks/startup.rst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								157,
+								157
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "restructuredtext",
+							"open_with_edit": true,
+							"syntax": "Packages/RestructuredText/reStructuredText.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Igor/docs/bookmarks/bookmarks.rst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "restructuredtext",
+							"syntax": "Packages/RestructuredText/reStructuredText.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Igor/docs/kultura/tv-series.rst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								584,
+								584
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "restructuredtext",
+							"syntax": "Packages/RestructuredText/reStructuredText.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 864.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Igor/docs/kultura/french.rst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "restructuredtext",
+							"open_with_edit": true,
+							"syntax": "Packages/RestructuredText/reStructuredText.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Igor/docs/kultura/kultura.rst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "restructuredtext",
+							"syntax": "Packages/RestructuredText/reStructuredText.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2927,
+								2927
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "html",
+							"default_dir": "C:\\Windows\\System32\\drivers\\etc",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "LaTeXTools.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4481,
+								4477
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "json",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2798.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/Users/Igor/Documents/RPG/Scenariusze/test/test.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18849,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1150,
+								1150
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "latex",
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/Users/Igor/Downloads/Web/article_2/article_2.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6014,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3974,
+								3983
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "latex",
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 599.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 47.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 164.0
+	},
+	"output.exec":
+	{
+		"height": 139.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.scope_viewer":
+	{
+		"height": 164.0
+	},
+	"pinned_build_system": "",
+	"project": "personal.sublime-project",
+	"replace":
+	{
+		"height": 90.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"htpdconf",
+				"Apache24\\conf\\httpd.conf"
+			],
+			[
+				"vhostsc",
+				"Apache24\\conf\\extra\\httpd-vhosts.conf"
+			],
+			[
+				"hosts",
+				"etc\\hosts"
+			],
+			[
+				"l3",
+				"docs\\french\\level-3.rst"
+			],
+			[
+				"pla",
+				"docs\\french\\places.rst"
+			],
+			[
+				"supery",
+				"docs\\wiedzownik\\supery.rst"
+			],
+			[
+				"plac",
+				"docs\\french\\places.rst"
+			],
+			[
+				"praca",
+				"docs\\praca\\praca.rst"
+			],
+			[
+				"negat",
+				"docs\\french\\negatives.rst"
+			],
+			[
+				"wordc",
+				"pwiki\\app\\Http\\Controllers\\WordController.php"
+			],
+			[
+				"wordco",
+				"lingo\\app\\Http\\Controllers\\WordController.php"
+			],
+			[
+				"apahttpd",
+				"Apache24\\conf\\httpd.conf"
+			],
+			[
+				"apa2vhos",
+				"Apache24\\conf\\extra\\httpd-vhosts.conf"
+			],
+			[
+				"vhos",
+				"Apache24\\manual\\rewrite\\vhosts.html"
+			],
+			[
+				"slowa",
+				"docs\\wiedzownik\\slowka1.rst"
+			],
+			[
+				"progra",
+				"docs\\bookmarks\\programming.rst"
+			],
+			[
+				"wo2",
+				"docs\\wiedzownik\\words2.rst"
+			],
+			[
+				"f3",
+				"docs\\french\\level-3.rst"
+			],
+			[
+				"wie",
+				"docs\\wiedzownik\\wiedzownik.rst"
+			],
+			[
+				"wor",
+				"docs\\wiedzownik\\words1.rst"
+			],
+			[
+				"lektury",
+				"docs\\lektury\\lektury.rst"
+			],
+			[
+				"fash",
+				"docs\\bookmarks\\fashion.rst"
+			],
+			[
+				"preosi",
+				"docs\\french\\prepositions1.rst"
+			],
+			[
+				"prast",
+				"docs\\praca\\praca.rst"
+			],
+			[
+				"infi1",
+				"docs\\french\\infinitives-words1.rst"
+			],
+			[
+				"rogra",
+				"docs\\bookmarks\\programming.rst"
+			],
+			[
+				"_nav",
+				"Blogi\\kumkum\\src\\sass\\refills\\_navigation.scss"
+			],
+			[
+				"_mix",
+				"Blogi\\kumkum\\src\\sass\\_mixins.sass"
+			],
+			[
+				"postssa",
+				"Blogi\\kumkum\\src\\sass\\post.sass"
+			],
+			[
+				"laysass",
+				"Blogi\\kumkum\\src\\sass\\layout.sass"
+			],
+			[
+				"_base",
+				"Blogi\\kumkum\\templates\\_base.html"
+			],
+			[
+				"macrosfont",
+				"Blogi\\kumkum\\templates\\macros\\use-font-awesome.html"
+			],
+			[
+				"header",
+				"Blogi\\kumkum\\templates\\includes\\header.html"
+			],
+			[
+				"readrst",
+				"Blogi\\kumkum\\README.rst"
+			],
+			[
+				"pelica",
+				"Blogi\\testkum\\pelicanconf.py"
+			],
+			[
+				"footer",
+				"Blogi\\kumkum\\templates\\includes\\footer.html"
+			],
+			[
+				"pecaconf",
+				"Blogi\\testkum\\pelicanconf.py"
+			],
+			[
+				"lev3",
+				"docs\\french\\level-3.rst"
+			],
+			[
+				"display",
+				"Blogi\\kumkum\\templates\\macros\\display-extras.html"
+			],
+			[
+				"extras",
+				"Blogi\\kumkum\\templates\\includes\\extras.html"
+			],
+			[
+				"vari",
+				"Blogi\\kumkum\\src\\sass\\_variables.sass"
+			],
+			[
+				"layou",
+				"Blogi\\kumkum\\src\\sass\\layout.sass"
+			],
+			[
+				"mixinssa",
+				"Blogi\\kumkum\\src\\sass\\_mixins.sass"
+			],
+			[
+				"post",
+				"Blogi\\kumkum\\src\\sass\\post.sass"
+			],
+			[
+				"words1",
+				"docs\\wiedzownik\\words1.rst"
+			],
+			[
+				"frerst",
+				"docs\\french\\french.rst"
+			],
+			[
+				"maijs",
+				"Blogi\\kumkum\\src\\js\\main.js"
+			],
+			[
+				"debugjs",
+				"Blogi\\kumkum\\src\\js\\debug.js"
+			],
+			[
+				"navigas",
+				"Blogi\\kumkum\\src\\sass\\refills\\_navigation.scss"
+			],
+			[
+				"web",
+				"docs\\bookmarks\\web-and-graphics.rst"
+			],
+			[
+				"layou.sass",
+				"Blogi\\kumkum\\src\\sass\\layout.sass"
+			],
+			[
+				"fre",
+				"docs\\french\\french.rst"
+			],
+			[
+				"fren4",
+				"docs\\french\\level-4.rst"
+			],
+			[
+				"fre3",
+				"docs\\french\\level-3.rst"
+			],
+			[
+				"todor",
+				"Blogi\\kumkum\\demo_content\\pages\\todo.rst"
+			],
+			[
+				"styrs",
+				"Blogi\\kumkum\\demo_content\\pages\\typography.rst"
+			],
+			[
+				"demojs",
+				"baseline-overlay\\demo\\demo.js"
+			],
+			[
+				"debjs",
+				"Blogi\\kumkum\\src\\js\\debug.js"
+			],
+			[
+				"typog",
+				"Blogi\\kumkum\\demo_content\\pages\\typography.rst"
+			],
+			[
+				"bezo",
+				"docs\\french\\bezokoliczniki.rst"
+			],
+			[
+				"bezok",
+				"docs\\french\\bezokoliczniki.rst"
+			],
+			[
+				"typogr",
+				"Blogi\\kumkum\\demo_content\\pages\\typography.rst"
+			],
+			[
+				"displa",
+				"Blogi\\kumkum\\templates\\macros\\display-post.html"
+			],
+			[
+				"head",
+				"Blogi\\kumkum\\templates\\includes\\header.html"
+			],
+			[
+				"gul",
+				"Blogi\\kumkum\\gulpfile.js"
+			],
+			[
+				"todors",
+				"Blogi\\kumkum\\demo_content\\pages\\todo.rst"
+			],
+			[
+				"gulpf",
+				"Blogi\\kumkum\\gulpfile.js"
+			],
+			[
+				"tiwo1",
+				"docs\\french\\time-words1.rst"
+			],
+			[
+				"tiwo2",
+				"docs\\french\\time-words2.rst"
+			],
+			[
+				"tiwo3",
+				"docs\\french\\time-words3.rst"
+			],
+			[
+				"pagi",
+				"Blogi\\kumkum\\templates\\includes\\pagination.html"
+			],
+			[
+				"comi",
+				"docs\\bookmarks\\comics.rst"
+			],
+			[
+				"webrst",
+				"docs\\bookmarks\\web-and-graphics.rst"
+			],
+			[
+				"rpg",
+				"docs\\bookmarks\\rpg.rst"
+			],
+			[
+				"paginatio",
+				"Blogi\\kumkum\\templates\\includes\\pagination.html"
+			],
+			[
+				"tyop",
+				"Blogi\\kumkum\\demo_content\\pages\\typography.rst"
+			],
+			[
+				"rears",
+				"Blogi\\kumkum\\README.rst"
+			],
+			[
+				"disppo",
+				"Blogi\\kumkum\\templates\\macros\\display-post.html"
+			],
+			[
+				"arts.htm",
+				"Blogi\\kumkum\\templates\\includes\\articles.html"
+			],
+			[
+				"articleh",
+				"Blogi\\kumkum\\templates\\article.html"
+			],
+			[
+				"readrs",
+				"Blogi\\kumkum\\README.rst"
+			],
+			[
+				"readr",
+				"Blogi\\kumkum\\README.rst"
+			],
+			[
+				"dispp",
+				"Blogi\\kumkum\\templates\\macros\\display-post.html"
+			],
+			[
+				"foot",
+				"Blogi\\kumkum\\templates\\includes\\footer.html"
+			],
+			[
+				"typ",
+				"Blogi\\kumkum\\demo_content\\pages\\typography.rst"
+			],
+			[
+				"todos",
+				"Blogi\\kumkum\\demo_content\\pages\\TODO.rst"
+			],
+			[
+				"lista.r",
+				"docs\\lektury\\lista.rst"
+			],
+			[
+				"_base.html",
+				"Blogi\\kumkum\\templates\\_base.html"
+			],
+			[
+				"base.hm",
+				"Blogi\\kumkum\\tmp\\templates_\\base.html"
+			],
+			[
+				"variablessass",
+				"Blogi\\kumkum\\src\\sass\\_variables.sass"
+			],
+			[
+				"progrst",
+				"docs\\bookmarks\\programming.rst"
+			],
+			[
+				"todo.r",
+				"Blogi\\kumkum\\demo_content\\pages\\TODO.rst"
+			],
+			[
+				"program",
+				"docs\\bookmarks\\programming.rst"
+			],
+			[
+				"",
+				"Blogi\\kumkum\\tmp\\TODO"
+			],
+			[
+				"postsas",
+				"Blogi\\kumkum\\src\\sass\\post.sass"
+			],
+			[
+				"to",
+				"Blogi\\kumkum\\tmp\\TODO"
+			],
+			[
+				"kumread",
+				"Blogi\\kumkum\\README.rst"
+			],
+			[
+				"pelic",
+				"Blogi\\testkum\\pelicanconf.py"
+			],
+			[
+				"blogr",
+				"Blogi\\kumkum\\templates\\includes\\blogroll.html"
+			],
+			[
+				"soci",
+				"Blogi\\kumkum\\templates\\includes\\social.html"
+			],
+			[
+				"sochtm",
+				"Blogi\\kumkum\\templates\\includes\\social.html"
+			],
+			[
+				"blog",
+				"Blogi\\kumkum\\templates\\includes\\blogroll.html"
+			],
+			[
+				"peiconf",
+				"Blogi\\kumkum\\tmp\\pelican\\samples\\pelican.conf.py"
+			],
+			[
+				"peli",
+				"Blogi\\books\\pelicanconf.py"
+			],
+			[
+				"gulp",
+				"Blogi\\kumkum\\gulpfile.js"
+			],
+			[
+				"page.ht",
+				"Blogi\\kumkum\\templates\\page.html"
+			],
+			[
+				"todo",
+				"Blogi\\kumkum\\tmp\\TODO"
+			],
+			[
+				"timewo2",
+				"docs\\french\\time-words2.rst"
+			],
+			[
+				"extrhtm",
+				"Blogi\\kumkum\\templates\\includes\\extras.html"
+			],
+			[
+				"settsass",
+				"Blogi\\kumkum\\src\\sass\\_settings.sass"
+			],
+			[
+				"mixinsas",
+				"Blogi\\kumkum\\src\\sass\\_mixins.sass"
+			],
+			[
+				"pel",
+				"Blogi\\testkum\\pelicanconf.py"
+			],
+			[
+				"layout.sas",
+				"Blogi\\kumkum\\src\\sass\\layout.sass"
+			],
+			[
+				"social",
+				"Blogi\\kumkum\\templates\\includes\\social.html"
+			],
+			[
+				"httconf",
+				"Apache24\\conf\\httpd.conf"
+			],
+			[
+				"vhoco",
+				"Apache24\\conf\\extra\\httpd-vhosts.conf"
+			],
+			[
+				"vhost",
+				"Apache24\\manual\\rewrite\\vhosts.html"
+			],
+			[
+				"_settsas",
+				"Blogi\\żaba\\src\\sass\\_settings.sass"
+			],
+			[
+				"layoutsass",
+				"Blogi\\żaba\\src\\sass\\layout.sass"
+			],
+			[
+				".htacc",
+				"hq\\.htaccess"
+			],
+			[
+				"tiwor",
+				"docs\\french\\time-words1.rst"
+			],
+			[
+				"timewo",
+				"docs\\french\\time-words2.rst"
+			],
+			[
+				"_bas",
+				"Blogi\\kum kum\\templates\\_base.html"
+			],
+			[
+				"page",
+				"Blogi\\kum kum\\templates\\page.html"
+			],
+			[
+				"pelican",
+				"Blogi\\kum kum\\tmp\\preview\\pelicanconf.py"
+			],
+			[
+				"artih",
+				"Blogi\\kum kum\\templates\\article.html"
+			],
+			[
+				"avery",
+				"Blogi\\kum kum\\content\\a very long title.rst"
+			],
+			[
+				"dispsyn",
+				"Blogi\\kum kum\\templates\\macros\\display-synopses.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
